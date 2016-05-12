@@ -19,7 +19,7 @@ The version of this monkey patch package matches the SymPy version it patches.
         license='MIT',
         author='Haimo Zhang',
         author_email='zh.hammer.dev@gmail.com',
-        url='',
+        url='https://github.com/haimoz/sympy_monkey_patches',
         requires=['sympy(==1.0)',],
         install_requires=['sympy==1.0',],
         packages=['sympy_monkey_patches'],
